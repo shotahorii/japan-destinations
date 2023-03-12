@@ -38,6 +38,7 @@ Kyoto, Osaka and Nara.
 ### Kyoto (京都)
 - [Place] Fushimi Inari Shrine (伏見稲荷大社): The shrine with thousands of red Torii gates. 
 - [Place] Banboo forest (竹林): A path in thousands of bamboo trees. 
+- [Experience] Kimono (着物) experience. Like Asakusa (浅草) in Tokyo, Kyoto has lots of Rental Kimono shops. You can rent a Kimono and walk around the area. 
 - [Place] Kinkaku-ji temple (Golden Pavilion; 金閣寺): A zen temple covered in gold. 
 - [Place] Sanjusangen-do (三十三間堂): A temple with 1000 golden statues of goddess. This place might not be as famous as other temples like Golden pavillion, but imo this is one of the most incredible experience in Kyoto. 
 - [Place] Nishiki market (錦市場): Japanese traditional food market, good for shopping and lunch. 
@@ -46,6 +47,7 @@ Kyoto, Osaka and Nara.
 - [Food] Matcha (抹茶): Traditional green tea. Cafes in Kyoto often provide it, and also you can have it in some of Temples / Japanese gardens. 
 - [Place] Tohuku-ji temple (東福寺): A temple with very beautiful Japanese garden. 
 - [Place] Ryoan-ji temple (龍安寺): A temple with Japanese Zen-style garden.
+- [Experience] Japanese tea ceremony (茶道): Japanese traditional tea experience in a tea room. Some temples host tea ceremony events once a while, but not always available and need pre-booking. (I've never tried myself.)
 
 ### Osaka (大阪)
 - [Food] Takoyaki (たこ焼き): Must-eat in Osaka. A ball-shaped Japanese snack made of a wheat flour-based batter, filled with diced octopus.
@@ -58,11 +60,21 @@ Kyoto, Osaka and Nara.
 - [Place] Nara Park (奈良公園): The park where you can feed Japanese deers. 
 - [Place] Todai-ji temple (東大寺): A temple in Nara park. There's a huge (-15 meter) budda statue inside. 
 
-## Other regions
-Regions not close to Tokyo / Kyoto / Osaka areas, but worth visiting if you have extra time to explore. 
+## Other popular regions
+Regions not close to Tokyo / Kyoto / Osaka areas, but popular for tourists and worth visiting if you have extra time to explore. 
 
 ### Hiroshima (広島)
+- [Place] Itsukushima shrine (厳島神社): A shrine on Miyajima island, famous for its Torii gate standing in the middle of the sea (looking like floating). 
+- Peace Park / Atomic Bomb Dome (原爆ドーム): It's a memorial place for piece, as Hiroshima is one of the two places bombed by Atomic bomb. 
 
 ### Kyushu (九州)
+- [Place] Hakata (博多): 
+- [Place]  
 
-### 
+## Must-Do List
+- Eat Ramen: Any ramen restaurant is fine, but Ichiran (一蘭) is quite popular and very tasty. 
+- Eat Sushi in authentic sushi restaurant: You're in Japan, you must eat the real sushi. 
+- Or eat Sushi in conveyor belt sushi restaurant (especially hi-tech one is fun): Not as tasty as authentic one, but still very good. And some conveyor belt sushi restaurants are very creative and hi-tech.
+- Eat in Izakaya restaurant: Izakaya is a Japanese tapas-style restaurant/bar. Millions of Izakayas in any cities in Japan. 
+- Try some Onigiri (おにぎり), Japanese rice ball in convenience stores. We eat Onigiri for lunch instead of sandwich. 
+- Try some Japanese snacks and sweets from convenience stores. Japanese snacks are quite different from ones in Europe, and very tasty (for me). 
