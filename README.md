@@ -33,9 +33,9 @@ City of Anime/Game culture
 
 ### Tokyo Disney Land / Disney Sea 
 
-## Kansai Area
+## Kansai Area (関西)
 Kyoto, Osaka and Nara. 
-### Kyoto 
+### Kyoto (京都)
 - [Place] Fushimi Inari Shrine (伏見稲荷大社): The shrine with thousands of red Torii gates. 
 - [Place] Banboo forest (竹林): A path in thousands of bamboo trees. 
 - [Place] Kinkaku-ji temple (Golden Pavilion; 金閣寺): A zen temple covered in gold. 
@@ -47,15 +47,22 @@ Kyoto, Osaka and Nara.
 - [Place] Tohuku-ji temple (東福寺): A temple with very beautiful Japanese garden. 
 - [Place] Ryoan-ji temple (龍安寺): A temple with Japanese Zen-style garden.
 
-### Osaka 
+### Osaka (大阪)
 - [Food] Takoyaki (たこ焼き): Must-eat in Osaka. A ball-shaped Japanese snack made of a wheat flour-based batter, filled with diced octopus.
 - [Food] Okonomiyaki (お好み焼き): Japanese pancake, famous in Osaka. 
 - [Food] Kushi-katsu (串カツ): Deep-fried skewered meat and vegetables, famous in Osaka. 
 - [Place] Universal Studios Japan (USJ) / Nintendo World: Universal studios theme park. Nintendo world (Super Mario theme park) is inside USJ.
 - [Place] Osaka Castle (大坂城): One of the biggest castle in Japan, made in medieval period. You can enter and the observatory in top floor has stunning view. 
 
-### Nara
+### Nara (奈良)
 - [Place] Nara Park (奈良公園): The park where you can feed Japanese deers. 
 - [Place] Todai-ji temple (東大寺): A temple in Nara park. There's a huge (-15 meter) budda statue inside. 
 
+## Other regions
+Regions not close to Tokyo / Kyoto / Osaka areas, but worth visiting if you have extra time to explore. 
 
+### Hiroshima (広島)
+
+### Kyushu (九州)
+
+### 
