@@ -1,12 +1,12 @@
 # Japan Travel Destinations
 
 ## Tokyo (東京)
-- Asakusa (浅草) 
-  - [Place] Senso-ji temple (浅草寺): An iconic Japanese temple. 
-  - [Experience] Kimono (着物) experience: You can rent a Kimono, Japanese traditional cloth in Asakusa, and walk around the area for a day. 
-  - [Experience] Yakatabune (屋形船) Boat Cruise: Japanese style cruise ship in the river near Asakusa. 
-  - [Place] Tokyo Sky Tree (東京スカイツリー): The highest tower in Japan with observatories at 350m/450m, with stunning view of Tokyo. 
-  - [Food] Monja-yaku (もんじゃ焼き): Local food not very famous outside of Japan. It's very weird looking but taste good, and interesting to try. Usually Monja-yaki restaurants provide Okonomi-yaki (お好み焼き), Japanese pancake as well. 
+### Asakusa (浅草) 
+- [Place] Senso-ji temple (浅草寺): An iconic Japanese temple. 
+- [Experience] Kimono (着物) experience: You can rent a Kimono, Japanese traditional cloth in Asakusa, and walk around the area for a day. 
+- [Experience] Yakatabune (屋形船) Boat Cruise: Japanese style cruise ship in the river near Asakusa. 
+- [Place] Tokyo Sky Tree (東京スカイツリー): The highest tower in Japan with observatories at 350m/450m, with stunning view of Tokyo. 
+- [Food] Monja-yaku (もんじゃ焼き): Local food not very famous outside of Japan. It's very weird looking but taste good, and interesting to try. Usually Monja-yaki restaurants provide Okonomi-yaki (お好み焼き), Japanese pancake as well. 
 - Shibuya (渋谷)
   - [Place] Shibuya crossing (渋谷交差点): Just in front of Shibuya station. If you want to take a video of people crossing, go to the Starbucks, 2nd floor of TSUTAYA music store, the best spot to look down the entire crossing. 
   - [Club] Womb: This is the best club in Tokyo, if you like Techno. 
