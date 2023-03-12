@@ -1,4 +1,9 @@
-# Japan Travel Destinations
+# Table of Contents
+1. Travel Destinations (Recommendations)
+2. Must-Eat List
+3. Must-Do List
+
+# 1. Japan Travel Destinations
 
 ## Tokyo (東京)
 ### Asakusa (浅草) 
@@ -71,10 +76,14 @@ Regions not close to Tokyo / Kyoto / Osaka areas, but popular for tourists and w
 - [Place] Hakata (博多): 
 - [Place]  
 
-## Must-Do List
-- Eat Ramen: Any ramen restaurant is fine, but Ichiran (一蘭) is quite popular and very tasty. 
-- Eat Sushi in authentic sushi restaurant: You're in Japan, you must eat the real sushi. 
-- Or eat Sushi in conveyor belt sushi restaurant (especially hi-tech one is fun): Not as tasty as authentic one, but still very good. And some conveyor belt sushi restaurants are very creative and hi-tech.
-- Eat in Izakaya restaurant: Izakaya is a Japanese tapas-style restaurant/bar. Millions of Izakayas in any cities in Japan. 
-- Try some Onigiri (おにぎり), Japanese rice ball in convenience stores. We eat Onigiri for lunch instead of sandwich. 
-- Try some Japanese snacks and sweets from convenience stores. Japanese snacks are quite different from ones in Europe, and very tasty (for me). 
+# 2. Must-Eat List
+- Ramen (ラーメン): Any ramen restaurant is fine, but Ichiran (一蘭) is quite popular and very tasty. 
+- Sushi (寿司) in authentic sushi restaurant: You're in Japan, you must eat the real sushi. 
+- Or Sushi in conveyor belt sushi restaurant (especially hi-tech one is fun): Not as tasty as authentic one, but still very good. And some conveyor belt sushi restaurants are very creative and hi-tech.
+- Izakaya (居酒屋) food: Izakaya is a Japanese tapas-style restaurant/bar. Millions of Izakayas in any cities in Japan. 
+- Onigiri (おにぎり): Japanese rice ball in convenience stores. We eat Onigiri for lunch instead of sandwich. 
+- Japanese snacks and sweets from convenience stores: Japanese snacks are quite different from ones in Europe, and very tasty (for me). 
+- Japanese curry (カレー): Japanese curry is completely different from Indian/Thai curry. And most of "Japanese curry" in Japanese restaurants outside of Japan (in my experience) are quite different from what we eat in Japan. Many restaurants have Curry in their menu in Japan, and there are some chain restaurants specialised in Curry, such as Coco Ichiban (CoCo壱番屋), which is in everywhere in Tokyo. 
+
+# 3. Must-Do List
+- Stay in Ryokan (旅館), Japanese traditional hotel, at least one night in your trip. Staying in Ryokan is quite 
