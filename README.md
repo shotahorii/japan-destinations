@@ -31,12 +31,13 @@ City of Anime/Game culture
 ## Day Trip from Tokyo 
 
 ### Kamakura (鎌倉)
+An old town near Tokyo, with many zen temples. Also close to the Enoshima (江ノ島) island, where you can enjoy chill seaside vibes and eat tasty seafood. 
 
 ### Hakone (箱根)
-
-### Yokohama (横浜)
+If you visit Hakone, I recommend to stay one night there. Hakone is a famous Onsen (hot spring) place. There are many nice Ryokan (Japanese traditional hotels) there, where you can enjoy Japanese traditional cuisine and Onsen hot spring.  
 
 ### Tokyo Disney Land / Disney Sea 
+If you are big fan of Dieney. 
 
 ## Kansai Area (関西)
 Kyoto, Osaka and Nara. 
