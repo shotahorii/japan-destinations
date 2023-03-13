@@ -97,6 +97,7 @@ Not Must-Eat, but interesting to try.
 - Basashi (馬刺し): Horse meat, eaten raw. 
 - Natto (納豆): Japanese traditional food (fermented soybeans), smelling very bad. If you stay in Ryokan/Hotel with breakfast included, they might provide Natto. Usually eat with rice. 
 - Fugu (ふぐ): Puffer fish, eaten in raw (sashimi). Fugu is one of the groumet food in Japan. Quite expensive but really tasty. (Fugu has very strong poison, so only licensed chef can cook it.)
+- Gyu-don (牛丼): Gyu-don (Beef rice bowl) is a "traditional fast food" consisting of a bowl of rice topped with beef and onion simmered in a mildly sweet sauce. There are some chain restaurants for Gyu-don, such as Yoshino-ya (吉野家), Matsu-ya (松屋) and Suki-ya (すき家) - all of them available in any cities in Japan. 
 
 # 3. Must-Do List
 ## Must-Do
@@ -108,4 +109,5 @@ Not Must-Eat, but interesting to try.
 ## Interesting experience to try
 Not must do, but interesting to try.
 - Try Karaoke in a Karaoke box. We have so called Karaoke box, a room for Karaoke, usually ~5 euro per hour per person. 
-- 
+- Watch Sumo (相撲): Sumo is Japanese traditional martial arts like wrestling. You can watch Sumo in Ryogoku (両国), Tokyo. 
+- Watch Kabuki (歌舞伎) or Noh (能): Kabuki and Noh are Japanese traditioanl performance. 
