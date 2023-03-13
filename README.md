@@ -78,6 +78,13 @@ Regions not close to Tokyo / Kyoto / Osaka areas, but popular for tourists and w
 - [Place] Kanazawa 21st century museum: Contemporary art museum. The architecture is designed by SANAA, pritzker prize awarded Japanese architect. 
 - [Food] Crab: Kanazawa is known for its great seafood, especially crabs. 
 
+## Remote / Hidden gems 
+Quite remote from other popular cities but worth visiting if you have enough time in Japan. 
+- [Place] Fox Village (蔵王キツネ村): The fluffiest place on the earth. Full of foxes, you can feed them. 
+- [Place] Ginzan Onsen (銀山温泉): A remote onsen resort, with beautiful townscape. Ghibli vibes (if you watched Spirited Away, this place would remind you the film).
+- [Place] Shirakawa-go (白川郷) / Gokayama (五箇山): Historic villages preserving ancient style architectures. Beautiful scenary. 
+- [Place] Snow Monkey Park (地獄谷野猿公苑): (Only winter) A hot spring full of monkeys ("Snow monkeys").  
+
 # 2. Must-Eat List
 
 ## Must-Eat
