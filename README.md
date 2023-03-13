@@ -72,11 +72,14 @@ Regions not close to Tokyo / Kyoto / Osaka areas, but popular for tourists and w
 - [Place] Itsukushima shrine (厳島神社): A shrine on Miyajima island, famous for its Torii gate standing in the middle of the sea (looking like floating). 
 - Peace Park / Atomic Bomb Dome (原爆ドーム): It's a memorial place for piece, as Hiroshima is one of the two places bombed by Atomic bomb. 
 
-### Kyushu (九州)
-- [Place] Hakata (博多): 
-- [Place]  
+### Kanazawa (金沢)
+- [Place] Kenroku-en (兼六園): A huge Japanese garden to walk around. 
+- [Place] Kanazawa 21st century museum: Contemporary art museum. The architecture is designed by SANAA, pritzker prize awarded Japanese architect. 
+- [Food] Crab: Kanazawa is known for its great seafood, especially crabs. 
 
 # 2. Must-Eat List
+
+## Must-Eat
 - Ramen (ラーメン): Any ramen restaurant is fine, but Ichiran (一蘭) is quite popular and very tasty. 
 - Sushi (寿司) in authentic sushi restaurant: You're in Japan, you must eat the real sushi. 
 - Or Sushi in conveyor belt sushi restaurant (especially hi-tech one is fun): Not as tasty as authentic one, but still very good. And some conveyor belt sushi restaurants are very creative and hi-tech.
@@ -84,6 +87,25 @@ Regions not close to Tokyo / Kyoto / Osaka areas, but popular for tourists and w
 - Onigiri (おにぎり): Japanese rice ball in convenience stores. We eat Onigiri for lunch instead of sandwich. 
 - Japanese snacks and sweets from convenience stores: Japanese snacks are quite different from ones in Europe, and very tasty (for me). 
 - Japanese curry (カレー): Japanese curry is completely different from Indian/Thai curry. And most of "Japanese curry" in Japanese restaurants outside of Japan (in my experience) are quite different from what we eat in Japan. Many restaurants have Curry in their menu in Japan, and there are some chain restaurants specialised in Curry, such as Coco Ichiban (CoCo壱番屋), which is in everywhere in Tokyo. 
+- Soba (そば): Japanese traditional noodle. Although Ramen is the most popular Japanese noodle food, Soba is more traditional food for Japanese culture and as popular as Ramen in Japan.
+- Sake (日本酒): There are millions of Sake in Japan. Most of restauratnts / bars / Izakaya have multiple Sake, so ask them for their recommendations. 
+- Wagyu (和牛): There are many places you can try Wagyu beef (e.g. Steak house, Teppanyaki (鉄板焼き) restaurant) but my recommendation is Yakiniku (焼肉) restaurant. Yakiniku is originally from Korea, but it's now a part of Japanese culture. You can grill Wagyu beef by yourself. 
+
+## Interesting food to try
+Not Must-Eat, but interesting to try.
+- Syochu (焼酎): Japanese spirit, taste like Vodka. Quite popular in Japan. 
+- Basashi (馬刺し): Horse meat, eaten raw. 
+- Natto (納豆): Japanese traditional food (fermented soybeans), smelling very bad. If you stay in Ryokan/Hotel with breakfast included, they might provide Natto. Usually eat with rice. 
+- Fugu (ふぐ): Puffer fish, eaten in raw (sashimi). Fugu is one of the groumet food in Japan. Quite expensive but really tasty. (Fugu has very strong poison, so only licensed chef can cook it.)
 
 # 3. Must-Do List
-- Stay in Ryokan (旅館), Japanese traditional hotel, at least one night in your trip. Staying in Ryokan is quite 
+## Must-Do
+- Stay in Ryokan (旅館), Japanese traditional hotel, at least one night in your trip. Staying in Ryokan is quite different experience from usual hotel experience in western culture. Most of Ryokan provides traditional Japanese Dinner/Breakfast and have large public baths (Sometimes natural hot spring). 
+- Try Onsen (温泉), natural hot spring. Mostly public bath, but there are some Ryokan provides private Onsen bath for each room. 
+- Try Kimono (着物), Japanese traditional cloth. There are many Kimono rental shops in Tokyo/Kyoto (you don't need to know how to wear it, because they will do everything for you) and you can rent a Kimono ~50 Euro per person per day and walk around the area.  
+- Try Bullet Train. / Shinkansen (新幹線). 
+
+## Interesting experience to try
+Not must do, but interesting to try.
+- Try Karaoke in a Karaoke box. We have so called Karaoke box, a room for Karaoke, usually ~5 euro per hour per person. 
+- 
